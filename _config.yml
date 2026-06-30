@@ -23,7 +23,7 @@ repository               : "nataliacspimenta/nataliacspimenta.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "foto.png"
   name             : "Natália Pimenta"
   pronouns         : "she/her"  
   bio              : "Ph.D. Student in Political Science"
