@@ -3,6 +3,5 @@ title: "Introduction to Empirical Methods in Political Science (PS 210) – Fall
 collection: teaching
 type: "Undergraduate Course"
 venue: "Northwestern University, Department of Political Science"
+nolink: true
 ---
-
-Description here.
