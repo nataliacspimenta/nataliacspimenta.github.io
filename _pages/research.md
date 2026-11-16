@@ -15,4 +15,4 @@ My research lies at the intersection of law and politics, with a focus on democr
 
 **Defying Courts Makes Candidates Less Likely to Be Chosen: A Meta-Reanalysis of Conjoint Experiments**
 
-This project examines whether citizens electorally punish political candidates who defy judicial authority. Using replication files from 20 candidate conjoint experiments, I reconstruct direct comparisons between court-defying candidates and their opponents and examine how partisan and policy agreement shape candidate choice. This project is my first-year paper at Northwestern.
+This project examines whether citizens electorally punish political candidates who defy judicial authority. Using replication files from 20 candidate conjoint experiments, I reconstruct direct comparisons between court-defying candidates and their opponents and estimate how the penalty for court defiance differs depending on whether the defying candidate shares respondents' party affiliation or policy preferences. This project was my first-year paper at Northwestern.
