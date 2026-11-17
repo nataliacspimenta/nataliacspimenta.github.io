@@ -14,13 +14,13 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* Typefaces */
-$newsreader                 : "Newsreader", Georgia, Times, serif;
-$serif                      : $newsreader;
-$sans-serif                 : $newsreader;
+$instrument-sans            : "Instrument Sans", -apple-system, "Segoe UI", Arial, sans-serif;
+$serif                      : $instrument-sans;
+$sans-serif                 : $instrument-sans;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* Sans serif typefaces */
-$sans-serif-narrow          : $newsreader;
+$sans-serif-narrow          : $instrument-sans;
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 
 /* Serif typefaces */
@@ -40,9 +40,9 @@ $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
 
-$global-font-family         : $newsreader;
-$header-font-family         : $newsreader;
-$caption-font-family        : $newsreader;
+$global-font-family         : $instrument-sans;
+$header-font-family         : $instrument-sans;
+$caption-font-family        : $instrument-sans;
 
 /* ==========================================================================
    Breakpoints
